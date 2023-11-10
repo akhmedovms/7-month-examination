@@ -7,12 +7,13 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA37edOoaDAt-EjOyDKCNFlBmewjp_u4q4",
-  authDomain: "unsplash-project-5423e.firebaseapp.com",
-  projectId: "unsplash-project-5423e",
-  storageBucket: "unsplash-project-5423e.appspot.com",
-  messagingSenderId: "1086940830489",
-  appId: "1:1086940830489:web:1819496d0ec6bd8c8bc388",
+  apiKey: "AIzaSyBXzkmKB0etPNOG7FzazisEF8oD5CS3hSo",
+  authDomain: "comfy-store-af4be.firebaseapp.com",
+  projectId: "comfy-store-af4be",
+  storageBucket: "comfy-store-af4be.appspot.com",
+  messagingSenderId: "89881638694",
+  appId: "1:89881638694:web:7d262736afa6cb5a5333e7",
+  measurementId: "G-X03EBCBK7V",
 };
 
 const app = initializeApp(firebaseConfig);
