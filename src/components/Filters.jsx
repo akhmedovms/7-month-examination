@@ -22,6 +22,7 @@ const Filters = ({ meta, handleFilterSubmit, handleReset }) => {
       shipping: selectedShipping,
       order: selectedOrder,
       price: selectedPrice,
+      shipping: selectedShipping,
     };
 
     handleFilterSubmit(selectedFilters);
